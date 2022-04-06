@@ -13,6 +13,7 @@ hello git!        hello xuexilema!
 hello git!        hello xuexilema!
 hello git!        hello xuexilema!
 hello git!        hello xuexilema!
+hello git!        hello xuexilema!    master succeeded
 hello git!        hello xuexilema!
-hello git!        hello xuexilema!
+
 
